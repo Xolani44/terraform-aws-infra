@@ -35,7 +35,7 @@ AWS Account
 
 - Terraform 1.15
 - AWS Provider (`hashicorp/aws` ~> 5.0)
-- AWS (VPC, EC2 networking services)
+- AWS VPC (networking — VPC, subnets, internet gateway, route tables)
 
 ## Prerequisites
 
