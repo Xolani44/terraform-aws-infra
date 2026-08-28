@@ -1,7 +1,7 @@
 # Terraform AWS Infra
 
-Modular AWS network infrastructure — VPC, public and private subnets,
-internet gateway, and NAT gateway — provisioned with Terraform using a
+Modular AWS network infrastructure VPC, public and private subnets,
+internet gateway, and NAT gateway provisioned with Terraform using a
 reusable module structure.
 
 ## Overview
